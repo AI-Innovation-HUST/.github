@@ -1,9 +1,9 @@
 Code overview:
 
-Via dockerhub: 
-- Plate of container: truongan912/plate_cont:1.41
-- Vertical series BIC container: truongan912/hoz_cont:1.1
+Deployed to docker image: 
+- Plate of container
+- Vertical series BIC container
 
-Via app: Horizontal serires BIC container.
+Via app: Horizontal serires BIC container, Plate of container, Vertical series BIC container.
 
-All are deployed via DigitalOcean.
+All are deployed and saved via DigitalOcean.
